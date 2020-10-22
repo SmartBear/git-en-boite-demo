@@ -1,1 +1,1 @@
-Feature: Eating more cucumbers
+Feature: Eating less cucumbers
